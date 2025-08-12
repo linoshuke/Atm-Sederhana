@@ -54,7 +54,7 @@ Proyek ini menggunakan lisensi [MIT](LICENSE) (atau sesuaikan dengan lisensi yan
 
 ## Author
 
-- [linoshuke](github.com/linoshuke)
+- [linoshuke](https://github.com/linoshuke)
 
 ---
 
